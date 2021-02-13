@@ -10,6 +10,8 @@ Python
 
 C++
 
+
+
 Languages I want to learn:
 
 Visual C for easy GUI based program dev
