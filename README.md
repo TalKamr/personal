@@ -1,7 +1,8 @@
 # personal
 
 Folder of all my personal projects. Not really meant for release. Probably to be used as portfolio for job applications.
-
+<br/>
+<br/>
 Languages I use:
 
 Java (Maven and Native)
@@ -9,9 +10,8 @@ Java (Maven and Native)
 Python
 
 C++
-
- 
- 
+<br/>
+<br/>
 Languages I want to learn:
 
 Visual C for easy GUI based program dev
