@@ -18,7 +18,7 @@ Visual C for easy GUI based program dev
 
 Swift for app dev
 
-C# to integrate wtih Visual C and C++ for speedy scripting
+C# to integrate wtih Visual C and C++ for speedy scripting in gameDev
 
 mySQL for database integration
 
