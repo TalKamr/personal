@@ -24,4 +24,4 @@ mySQL for database integration
 
 Scala for math based programming
 
-Assembly for better work at disassembly and R/E 
+Assembly for better understanding with disassembly and R/E 
